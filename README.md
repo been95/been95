@@ -1,5 +1,4 @@
 <h2>🍀ME🍀</h2>
-<br>
 Hello. This is been, currently web designer. <br>
 But also my desire draws me to be a developer. <br>
 This is the reason why i have a real enthusiame for front-end development.
