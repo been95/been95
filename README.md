@@ -1,4 +1,4 @@
-###🍀ME🍀
+
 Hello. This is Chaebeen, currently web designer. <br>
 But also my desire draws me to be a developer. <br>
 This is the reason why i have a real enthousiame for front-end development.
