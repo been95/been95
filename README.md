@@ -1,7 +1,7 @@
-<h3>🍀ME🍀</h3>
-Hello. This is been, currently web designer. <br>
+<h2>🍀ME🍀</h2>
+<p>Hello. This is been, currently web designer. <br>
 But also my desire draws me to be a developer. <br>
-This is the reason why i have a real enthusiame for front-end development.
+This is the reason why i have a real enthusiame for front-end development.</p>
 
 #
 
