@@ -7,7 +7,7 @@ This is the reason why i have a real enthusiame for front-end development.
 🎨drawing, 🖌Design, 💻Programming,
 <br>
 <h2>Skill</h2>
-<img alt="Python" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 #
 
