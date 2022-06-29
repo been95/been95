@@ -17,7 +17,7 @@ This is the reason why i have a real enthusiame for front-end development.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=been95&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=been95&layout=compact&theme=graywhite)
 
 
 
