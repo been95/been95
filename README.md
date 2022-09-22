@@ -15,7 +15,7 @@ This is the reason why i have a real enthusiame for front-end development.
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white""/>
 </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=been95&show_icons=true&theme=radical)
 
 
 
